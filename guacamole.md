@@ -6,4 +6,4 @@
 - lemon
 - salt
 #methods
--turn the oven on
+-mash the avocados
