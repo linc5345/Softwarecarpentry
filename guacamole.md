@@ -3,7 +3,7 @@
 ##ingredients
 
 - avocado
-- lime
+- lemon
 - salt
 #methods
 placeholder text here
